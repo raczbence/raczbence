@@ -5,8 +5,9 @@ Welcome to my GitHub profile! I'm a student who currently learns about coding an
 
 * 🌍  I'm based in Hungary, Debrecen
 * 🧠  I'm improving in Python, HTML and CSS
+* 🛠️  I use VS Code for coding
 
-### Learning:
+### Curremtly learning:
 
 
 <p align="left">
