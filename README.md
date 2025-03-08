@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a student who currently learns about coding an
 * 🧠  I'm improving in Python, HTML and CSS
 * 🛠️  I use VS Code for coding
 
-### Curremtly learning:
+### Currently learning:
 
 
 <p align="left">
